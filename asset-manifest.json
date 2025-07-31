@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/akansha-portal/static/css/main.2c08e341.css",
-    "main.js": "/akansha-portal/static/js/main.d57706be.js",
-    "static/js/453.9ab0905b.chunk.js": "/akansha-portal/static/js/453.9ab0905b.chunk.js",
+    "main.css": "/akansha-portal/static/css/main.eb0c98b6.css",
+    "main.js": "/akansha-portal/static/js/main.0f265ffa.js",
+    "static/js/453.e8249893.chunk.js": "/akansha-portal/static/js/453.e8249893.chunk.js",
     "static/media/1000086878.jpg": "/akansha-portal/static/media/1000086878.bf29baa4ac283069849c.jpg",
     "static/media/20241127_152425.jpg": "/akansha-portal/static/media/20241127_152425.75515dd755cd760b21f6.jpg",
     "static/media/20241217_190803.jpg": "/akansha-portal/static/media/20241217_190803.8f2eab8c56da38fd5d15.jpg",
@@ -19,21 +19,31 @@
     "static/media/Iphone_Wallpaper-removebg-preview.png": "/akansha-portal/static/media/Iphone_Wallpaper-removebg-preview.40357399bfa43da6a992.png",
     "static/media/download__6_-removebg-preview.png": "/akansha-portal/static/media/download__6_-removebg-preview.23701faa33bc4500aad1.png",
     "static/media/_121.jpg": "/akansha-portal/static/media/6257781876307641796_121.a971655bbc64ca708d20.jpg",
+    "static/media/universe.jpg": "/akansha-portal/static/media/universe.2efc56d2d82d32b9bcf9.jpg",
     "static/media/download (8).jpg": "/akansha-portal/static/media/download (8).28d3fe5d185ab3b1a4b8.jpg",
     "static/media/download (9).jpg": "/akansha-portal/static/media/download (9).40cec3d6b2d0a0c2f888.jpg",
+    "static/media/saturn.jpg": "/akansha-portal/static/media/saturn.98e776ea8f2747b36417.jpg",
+    "static/media/venus.jpg": "/akansha-portal/static/media/venus.20a632e3f28e27f66287.jpg",
+    "static/media/earth.jpg": "/akansha-portal/static/media/earth.c101256875e01b6f8c06.jpg",
     "static/media/WhatsApp Image 2024-12-28 at 11.56.16 PM.jpg": "/akansha-portal/static/media/WhatsApp Image 2024-12-28 at 11.56.16 PM.b579bc46e339e9290f64.jpg",
+    "static/media/mars.jpg": "/akansha-portal/static/media/mars.3e2fb2699f25c49ae11f.jpg",
     "static/media/Pin by _Tifany_ on Me _ Female doctor, Medical school inspiration, Medical school motivation.jpg": "/akansha-portal/static/media/Pin by _Tifany_ on Me _ Female doctor, Medical school inspiration, Medical school motivation.77b3ec733a3b86962c08.jpg",
+    "static/media/sun.jpg": "/akansha-portal/static/media/sun.35fc6fc543bff38bc0ea.jpg",
+    "static/media/jupiter.jpg": "/akansha-portal/static/media/jupiter.a6fef2f34804a9205c92.jpg",
+    "static/media/mercury.jpg": "/akansha-portal/static/media/mercury.f3194b9c501adee87e25.jpg",
+    "static/media/uranus.jpg": "/akansha-portal/static/media/uranus.3ac25d4db9ee0c6a03a7.jpg",
     "static/media/Обои.jpg": "/akansha-portal/static/media/Обои.97a39b976832639777d6.jpg",
+    "static/media/neptune.jpg": "/akansha-portal/static/media/neptune.1cac7c16b1c267f93da3.jpg",
     "static/media/WhatsApp Image 2025-02-05 at 6.09.53 PM.jpg": "/akansha-portal/static/media/WhatsApp Image 2025-02-05 at 6.09.53 PM.3c853c4ee1817bed9f26.jpg",
     "static/media/roses-bg.jpg": "/akansha-portal/static/media/roses-bg.7bdee56edeef7f8c3539.jpg",
     "static/media/logo.svg": "/akansha-portal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/akansha-portal/index.html",
-    "main.2c08e341.css.map": "/akansha-portal/static/css/main.2c08e341.css.map",
-    "main.d57706be.js.map": "/akansha-portal/static/js/main.d57706be.js.map",
-    "453.9ab0905b.chunk.js.map": "/akansha-portal/static/js/453.9ab0905b.chunk.js.map"
+    "main.eb0c98b6.css.map": "/akansha-portal/static/css/main.eb0c98b6.css.map",
+    "main.0f265ffa.js.map": "/akansha-portal/static/js/main.0f265ffa.js.map",
+    "453.e8249893.chunk.js.map": "/akansha-portal/static/js/453.e8249893.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c08e341.css",
-    "static/js/main.d57706be.js"
+    "static/css/main.eb0c98b6.css",
+    "static/js/main.0f265ffa.js"
   ]
 }
