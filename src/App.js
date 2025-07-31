@@ -9,6 +9,9 @@ import MotivationPage from './Pages/MotivationPage';
 import LoveTimelinePage from './Pages/LoveTimeline';
 import LoveLetterPage from './Pages/LoveLetterPage';
 import LettersPage from './Pages/LettersPage';
+import RantPage from './Pages/RantPage';
+import ToDoPage from './Pages/Todo';
+import SolarLoveSection from './Pages/Planet';
 function App() {
 
   return (
@@ -19,10 +22,12 @@ function App() {
 <ImageGalleryPage></ImageGalleryPage>
 <ChildhoodCutoutsPage></ChildhoodCutoutsPage>
 <MotivationPage></MotivationPage>
+{/* <RantPage></RantPage>
+<ToDoPage></ToDoPage> */}
 <LoveTimelinePage></LoveTimelinePage>
 <LettersPage></LettersPage>
 <LoveLetterPage></LoveLetterPage>
-
+<SolarLoveSection></SolarLoveSection>
     </div>
   );
 }
