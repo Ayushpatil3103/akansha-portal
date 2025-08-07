@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/akansha-portal/static/css/main.eb0c98b6.css",
-    "main.js": "/akansha-portal/static/js/main.0f265ffa.js",
+    "main.js": "/akansha-portal/static/js/main.98bc5833.js",
     "static/js/453.e8249893.chunk.js": "/akansha-portal/static/js/453.e8249893.chunk.js",
     "static/media/1000086878.jpg": "/akansha-portal/static/media/1000086878.bf29baa4ac283069849c.jpg",
     "static/media/20241127_152425.jpg": "/akansha-portal/static/media/20241127_152425.75515dd755cd760b21f6.jpg",
@@ -39,11 +39,11 @@
     "static/media/logo.svg": "/akansha-portal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/akansha-portal/index.html",
     "main.eb0c98b6.css.map": "/akansha-portal/static/css/main.eb0c98b6.css.map",
-    "main.0f265ffa.js.map": "/akansha-portal/static/js/main.0f265ffa.js.map",
+    "main.98bc5833.js.map": "/akansha-portal/static/js/main.98bc5833.js.map",
     "453.e8249893.chunk.js.map": "/akansha-portal/static/js/453.e8249893.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb0c98b6.css",
-    "static/js/main.0f265ffa.js"
+    "static/js/main.98bc5833.js"
   ]
 }
