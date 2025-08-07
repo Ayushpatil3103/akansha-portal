@@ -15,42 +15,42 @@ const planets = [
   {
     name: 'Mercury',
     image: mercury,
-    message: 'Mercury orbits closest to the Sun just like my heart orbits around you, never straying far from your warmth.',
+    message: 'This is first planet and first phase of our bond like those july 15 days we instantlt bonded',
   },
   {
     name: 'Venus',
     image: venus,
-    message: 'Venus, the goddess of love, looks up to you because no beauty in the universe can match the glow of your soul.',
+    message: 'Then like planet of desire and love i started to love talking to you an',
   },
   {
     name: 'Earth',
     image: earth,
-    message: 'Of all the planets, Earth is the only one that has life — and mine only has meaning because you’re in it.',
+    message: 'By august september you were my home like earth is',
   },
   {
     name: 'Mars',
     image: mars,
-    message: 'Mars may be called the red planet, and Your anger is cutest just like it',
+    message: 'Mars may be called the red planet and is bold and firey like it was in september the burning passion we had which made us talk for 12hrs or till 5am',
   },
   {
     name: 'Jupiter',
     image: jupiter,
-    message: 'Jupiter, the giant protector, reminds me of my promise  to always shield you, hold you, and love you endlessly.',
+    message: 'Jupiter, the giant protector, Where in october where we got peak bonded and you gave best pdf ever in oct.',
   },
   {
     name: 'Saturn',
     image: saturn,
-    message: 'Saturn wears its rings proudly  just like You will wear when i put one in you.',
+    message: 'Saturn has rings. Well we did not engage but we started relationship and promised to stay till end',
   },
   {
     name: 'Uranus',
     image: uranus,
-    message: 'Uranus spins on its side, and that’s what love with you feels like —beautifully unexpected, wonderfully wild.',
+    message: 'Uranus is calming phase of relationship post november till jan where we loved each other made fforts  ',
   },
   {
     name: 'Neptune',
     image: neptune,
-    message: 'Neptune, with its deep blue storms, mirrors the depth of your love — wild on the surface, and wildly in love within.',
+    message: 'Neptune, with its deep blue storms, signifying that jan shift where we got more into each other and now we know parts of each other which only we had explored yet',
   },
 ];
 
